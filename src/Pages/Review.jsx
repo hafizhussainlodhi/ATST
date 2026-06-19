@@ -126,7 +126,7 @@ export default function Review() {
                         to="/request"
                         className="h-10 rounded-full bg-[var(--primary-color)] text-white text-xs font-semibold flex items-center justify-center"
                     >
-                        Skip
+                        Confirm
                     </Link>
                 </div>
             </div>

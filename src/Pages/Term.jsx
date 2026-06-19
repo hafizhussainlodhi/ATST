@@ -92,7 +92,7 @@ export default function Info() {
                         to="/review"
                         className="h-10 rounded-full bg-[var(--primary-color)] text-white text-xs font-semibold flex items-center justify-center"
                     >
-                        Skip
+                        Next
                     </Link>
                 </div>
             </div>
